@@ -1,1 +1,3 @@
-from .rand_norm import rand_norm_main
+from .rand_norm_generator import rand_norm_generator_main
+from .rand_norm_iterator import rand_norm_iterator_main
+from .rand_norm_generator_exp import rand_norm_generator_exp_main
